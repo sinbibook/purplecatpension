@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-05-12T05:49:49.983330363Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-05-12T05:56:02.079832293Z",
     "templateType": "fullpage_visual",
     "propertyId": "792d04be-2f69-42b7-bb58-88849afebf46",
     "homepageId": "dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02"
@@ -13,8 +13,8 @@
     "description": "",
     "subtitle": "",
     "address": "경북 영덕군 병곡면 동해대로 7577-3",
-    "latitude": 0,
-    "longitude": 0,
+    "latitude": 36.6163795989655,
+    "longitude": 129.407921690731,
     "contactPhone": "010-4811-8533",
     "contactEmail": "",
     "checkin": "16:00",
@@ -510,13 +510,22 @@
     "templateType": "fullpage_visual",
     "images": [
       {
-        "logo": [ ]
+        "logo": [
+          {
+            "id": "0d471d6c-83c4-4d64-b00d-93f9b8cfabc5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02/logo/1778565345530-m03z01lw01.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "seo": {
-      "title": "",
-      "description": "",
-      "keywords": ""
+      "title": "영덕 퍼플캣",
+      "description": "반려견·반려묘와 함께 머무를 수 있는 영덕의 프라이빗 펜션",
+      "keywords": "반려묘펜션,반려견펜션,반려동물동반,영덕펜션,영덕숙소,영덕여행"
     },
     "socialLinks": {
       "facebook": null,
@@ -967,7 +976,10 @@
             "family": "Cormorant"
           }
         },
-        "color": null
+        "color": {
+          "primary": "#F5F3F0",
+          "secondary": "#866B62"
+        }
       },
       "property": {
         "name": "영덕 퍼플캣",
