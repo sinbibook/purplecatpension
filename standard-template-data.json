@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-05-12T05:30:12.038038364Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-05-12T05:31:38.193819131Z",
     "templateType": "fullpage_visual",
     "propertyId": "792d04be-2f69-42b7-bb58-88849afebf46",
     "homepageId": "dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02"
@@ -416,7 +416,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": "영덕 퍼플캣"
+                "description": "반려동물과 머무는 특별한 공간, 영덕 퍼플캣"
               },
               "closing": {
                 "title": "Rest With Your Lovely Companion",
