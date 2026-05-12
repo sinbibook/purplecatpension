@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-05-12T08:08:30.601566321Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-05-12T08:10:17.833321320Z",
     "templateType": "fullpage_visual",
     "propertyId": "792d04be-2f69-42b7-bb58-88849afebf46",
     "homepageId": "dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02"
@@ -817,7 +817,7 @@
                     }
                   ],
                   "blockId": "ecaa8128-2497-4f62-aca9-3eb71b3b4dcc",
-                  "description": ""
+                  "description": "사랑하는 반려견·반려묘와 함께 머무르며 편안한 휴식과 특별한 추억을 만들어갈 수 있는 반려동물 동반 객실입니다."
                 },
                 {
                   "title": "다양한 부대시설",
@@ -864,7 +864,7 @@
                     }
                   ],
                   "blockId": "8cd82237-24f2-434f-86e2-bb83e9ea84b5",
-                  "description": ""
+                  "description": "반려견·반려묘 동반 객실과 고양이 놀이터, 오션뷰 객실, 자쿠지와 노천탕, 개별 바베큐까지 마련되어 있어 사랑하는 반려동물과 함께 더욱 특별하고 편안한 휴식을 즐길 수 있는 감성 펜션입니다."
                 }
               ]
             }
