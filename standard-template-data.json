@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-05-12T05:45:41.212750803Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-05-12T05:49:12.683631787Z",
     "templateType": "fullpage_visual",
     "propertyId": "792d04be-2f69-42b7-bb58-88849afebf46",
     "homepageId": "dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02"
@@ -762,7 +762,102 @@
                 ],
                 "description": " "
               },
-              "about": [ ]
+              "about": [
+                {
+                  "title": "반려묘, 반려견 동반 스테이",
+                  "images": [
+                    {
+                      "id": "f99ea529-908a-42eb-91c4-a2e9010e7194",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02/main_about/1778564946823-q7jwcgkcd9.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "ecaa8128-2497-4f62-aca9-3eb71b3b4dcc"
+                    },
+                    {
+                      "id": "de819562-df28-46e9-8f48-1e57d1dcf1bf",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02/main_about/1778564946789-ly6lezxgop.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "ecaa8128-2497-4f62-aca9-3eb71b3b4dcc"
+                    },
+                    {
+                      "id": "21b7b290-dd14-433a-97e8-82ced8ba6c19",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02/main_about/1778564946828-zlikr6u8cx.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "ecaa8128-2497-4f62-aca9-3eb71b3b4dcc"
+                    },
+                    {
+                      "id": "2c0ffd01-38b3-443d-899b-41975bd6bef9",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02/main_about/1778564946826-bymz555bkw.jpg",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "ecaa8128-2497-4f62-aca9-3eb71b3b4dcc"
+                    },
+                    {
+                      "id": "ae7b3397-3046-43e0-ac65-e35e02778257",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02/main_about/1778564946860-gp4tf4958f.jpg",
+                      "sortOrder": 4,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "ecaa8128-2497-4f62-aca9-3eb71b3b4dcc"
+                    }
+                  ],
+                  "blockId": "ecaa8128-2497-4f62-aca9-3eb71b3b4dcc",
+                  "description": ""
+                },
+                {
+                  "title": "다양한 부대시설",
+                  "images": [
+                    {
+                      "id": "3d871a8b-fef0-4e7f-a8c7-cf9dc325c898",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02/main_about/1778564946819-obp75gkhxs.jpg",
+                      "sortOrder": 5,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "8cd82237-24f2-434f-86e2-bb83e9ea84b5"
+                    },
+                    {
+                      "id": "468fceea-45b1-4501-bf96-6367f7a58936",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02/main_about/1778564946938-54k27wn8ys.jpg",
+                      "sortOrder": 6,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "8cd82237-24f2-434f-86e2-bb83e9ea84b5"
+                    },
+                    {
+                      "id": "7868e9b1-ba38-4620-a566-749b66f42f53",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02/main_about/1778564946929-aip5y9wi7q.jpg",
+                      "sortOrder": 7,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "8cd82237-24f2-434f-86e2-bb83e9ea84b5"
+                    },
+                    {
+                      "id": "24e9e6d5-d76f-465e-9e75-1c95c6c57647",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02/main_about/1778564946939-qb6pc98cgu.jpg",
+                      "sortOrder": 8,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "8cd82237-24f2-434f-86e2-bb83e9ea84b5"
+                    },
+                    {
+                      "id": "7f130a1f-d117-4fa0-a4af-171b36d734c9",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02/main_about/1778564946941-0uq0n7yxa2.jpg",
+                      "sortOrder": 9,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "8cd82237-24f2-434f-86e2-bb83e9ea84b5"
+                    }
+                  ],
+                  "blockId": "8cd82237-24f2-434f-86e2-bb83e9ea84b5",
+                  "description": ""
+                }
+              ]
             }
           ]
         },
