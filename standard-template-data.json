@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-05-12T05:31:38.193819131Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-05-12T05:45:41.212750803Z",
     "templateType": "fullpage_visual",
     "propertyId": "792d04be-2f69-42b7-bb58-88849afebf46",
     "homepageId": "dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02"
@@ -76,7 +76,24 @@
         "description": " ",
         "usageGuide": "- 숮+그릴 : 20,000원\n- 운영장소 : 전 객실 개별 바베큐\n- 운영시간 : 17:00~20:00\n※ 1박기준/현장결제\n※ 사전예약 및 문의필수",
         "displayOrder": 0,
-        "images": [ ]
+        "images": [
+          {
+            "id": "8ab891dc-23a9-4c17-ae9f-2cbdbd36fec5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/db509021-ca30-47b6-b8a3-fc2bb5c8e550/main/1778564026093-x4e0ckjf6x.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "3cfd6b1f-63c5-41c6-b0d2-79478964d095",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/db509021-ca30-47b6-b8a3-fc2bb5c8e550/main/1778564026088-ugbbtb3a96.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "226a767f-2459-4756-bc67-48fda7883c89",
@@ -84,7 +101,16 @@
         "description": " ",
         "usageGuide": "- 운영객실 : 오션뷰파밀리아\n- 운영요금 : 30,000원(1회이용)\n- 운영시간 : 17:00~22:00\n※ 1박기준/현장결제\n※ 수영복, 래쉬가드 필수착용",
         "displayOrder": 1,
-        "images": [ ]
+        "images": [
+          {
+            "id": "d449a77e-6156-4d7c-8da6-f396c27e98ef",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/226a767f-2459-4756-bc67-48fda7883c89/main/1778564026858-qn055txjxk.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "4d414672-8dc9-4f5f-9a8b-c3b6399fb2fd",
@@ -92,7 +118,24 @@
         "description": " ",
         "usageGuide": "- 운영객실 : 오션뷰퍼플캣\n- 운영요금 : 30,000원(1회이용)\n- 운여시간 : 17:00~22:00\n※ 1박기준/현장결제\n※ 수영복, 래쉬가드 필수착용",
         "displayOrder": 2,
-        "images": [ ]
+        "images": [
+          {
+            "id": "b26eff6e-a726-4186-ba52-552aa0679a1f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4d414672-8dc9-4f5f-9a8b-c3b6399fb2fd/main/1778564027397-hix1s0j4hx.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d108533e-b829-40c0-ad53-2a0c554de0ab",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4d414672-8dc9-4f5f-9a8b-c3b6399fb2fd/main/1778564027424-omuymxpuc2.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "059661f2-0aaf-4be5-9c51-aba5fdbc800f",
@@ -100,7 +143,48 @@
         "description": " ",
         "usageGuide": "- 이용객실 : 오션뷰퍼플캣\n- 이용요금 : 무료\n- 고양이전용 실내 놀이터와 감각적인 포토존. 캣타워, 캣워크, 허브정원으로 꾸며진 안전하고 쾌적한 공간",
         "displayOrder": 3,
-        "images": [ ]
+        "images": [
+          {
+            "id": "bb1b8fc5-713f-4c3f-809c-2b8eabbb1d5d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/059661f2-0aaf-4be5-9c51-aba5fdbc800f/main/1778564028053-n3xle626hj.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "a4e40b02-c649-4f62-9263-fe2c4731e454",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/059661f2-0aaf-4be5-9c51-aba5fdbc800f/main/1778564028084-5h5usrn1x6.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "67de9376-4dbd-44d5-b99e-40dfd1f745e2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/059661f2-0aaf-4be5-9c51-aba5fdbc800f/main/1778564028097-fyf2w8g0zd.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b9dbde30-dff1-4d9a-bf47-09fc6f652480",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/059661f2-0aaf-4be5-9c51-aba5fdbc800f/main/1778564028091-tsqt3znssk.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "62f0bfac-fce6-4d15-b15b-886e15e15886",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/059661f2-0aaf-4be5-9c51-aba5fdbc800f/main/1778564028088-z8vyidljj1.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "01e001fd-ee56-4d84-8d15-a52e2e016b78",
@@ -108,7 +192,40 @@
         "description": " ",
         "usageGuide": "- 운영요금 : 1마리 10,000원\n- 최대마리수 : 3마리\n- 오션뷰퍼플캣 반려묘 전용 / 오션뷰파밀리아 반려견 전용\n※ 1박기준/현장결제\n※ 반려동물 동반시 사전예약 및 문의필수",
         "displayOrder": 4,
-        "images": [ ]
+        "images": [
+          {
+            "id": "4c03de42-eceb-40fd-aaf4-0ad4addf1bf3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01e001fd-ee56-4d84-8d15-a52e2e016b78/main/1778564028936-ljfcecg8mg.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "cc873a6f-3f07-4e27-957b-06b7dc8a0518",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01e001fd-ee56-4d84-8d15-a52e2e016b78/main/1778564028970-jzv4h4qujq.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "c63163f7-64d1-46ac-860e-4bd0026750c3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01e001fd-ee56-4d84-8d15-a52e2e016b78/main/1778564028962-4tkrjcrr86.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "8085d697-66e9-4173-9480-e1e41e19581d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01e001fd-ee56-4d84-8d15-a52e2e016b78/main/1778564028972-rsrq6kbxki.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -160,8 +277,90 @@
     },
     "images": [
       {
-        "thumbnail": [ ],
-        "exterior": [ ],
+        "thumbnail": [
+          {
+            "id": "801e42ce-7f45-4046-8d4a-8a67cb44c40f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/792d04be-2f69-42b7-bb58-88849afebf46/thumbnail/1778564084294-1m166tw02j.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "exterior": [
+          {
+            "id": "5651ca94-152d-4bc4-a8a0-139febeaf107",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/792d04be-2f69-42b7-bb58-88849afebf46/exterior/1778564083996-lchobce42t.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "85ede6d5-e99b-445e-bc94-c54fd259725f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/792d04be-2f69-42b7-bb58-88849afebf46/exterior/1778564084118-xh5tjzt5j2.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "5fba0e17-51b6-4484-914f-66a2e1d63dae",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/792d04be-2f69-42b7-bb58-88849afebf46/exterior/1778564084298-blk98zpwl5.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "577313c5-9ea5-4922-81a9-18b14b22f81e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/792d04be-2f69-42b7-bb58-88849afebf46/exterior/1778564084072-nh7ef1eyrr.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ee2bcb23-5581-404d-8591-3ed0d5772b19",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/792d04be-2f69-42b7-bb58-88849afebf46/exterior/1778564084068-3ryurojwbf.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b919f38f-4af2-436a-ba93-50cfbe2a50b4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/792d04be-2f69-42b7-bb58-88849afebf46/exterior/1778564084298-168sc0obra.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "657c6b96-c29b-4cee-b89a-ce69f4472502",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/792d04be-2f69-42b7-bb58-88849afebf46/exterior/1778564084074-e5lwvx1k02.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4c5e7880-d486-4ae3-95f8-a589a41a15f0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/792d04be-2f69-42b7-bb58-88849afebf46/exterior/1778564084192-jtxvh46syd.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "81e5ddf6-b5d4-4f92-86ea-07a652fba7c6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/792d04be-2f69-42b7-bb58-88849afebf46/exterior/1778564084299-nmb5c8dg6e.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
         "surrounding": [ ],
         "commonArea": [ ]
       }
@@ -435,11 +634,44 @@
                 "description": " "
               },
               "essence": {
-                "title": "",
-                "images": [ ],
+                "title": " ",
+                "images": [
+                  {
+                    "id": "bcf0a52e-bee9-41c2-8029-55d923d0ecf0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02/index_essence/1778564581465-jvb5izecco.jpg",
+                    "sortOrder": 0,
+                    "description": "반려견·반려묘와 함께 편안하게 머무를 수 있는 영덕 퍼플캣 펜션\n단 2객실만 운영되어 더욱 프라이빗하고 여유로운 시간을 즐기실 수 있습니다.\n사랑하는 반려동물과 조용한 휴식을 함께해보세요.",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "a13518ab-5327-4a20-8180-04a74059e60c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02/index_essence/1778564581511-llx5u9jgea.jpg",
+                    "sortOrder": 1,
+                    "description": "오션뷰가 펼쳐지는 쾌적한 객실과 함께 자쿠지, 개별 바베큐장이 마련되어 있습니다.\n객실 내 캣타워까지 준비되어 있어 반려묘와 더욱 편안한 시간을 보내실 수 있습니다.\n온 가족이 함께 퍼플캣에서 특별한 추억을 만들어보세요.",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "f63e9565-b39d-476f-acf1-5425c2fd1f7b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02/index_essence/1778564581500-3ast0smycc.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "a42c95d0-1fc2-420d-8897-268fa9e80866",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dcae6e8c-3101-4ed0-8c23-d6b9d00a7f02/index_essence/1778564581513-xvgl3u62kc.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "Healing Moments With Your Lovely Cats & Dogs, Purplecat pension"
               },
               "gallery": {
                 "title": "",
